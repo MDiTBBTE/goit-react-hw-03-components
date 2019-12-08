@@ -1,0 +1,21 @@
+.button {
+  margin-right: 20px;
+  height: 30px;
+}
+
+.input {
+  margin-right: 20px;
+  height: 30px;
+}
+
+.controls {
+  width: 100%;
+  background-color: darkorchid;
+}
+.controlsInner {
+  width: 80%;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  margin: 0 auto;
+}

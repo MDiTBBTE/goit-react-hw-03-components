@@ -1,0 +1,10 @@
+.balance {
+  display: flex;
+  align-items: center;
+}
+
+.sign {
+  height: 100px;
+  margin-right: 20px;
+  line-height: 100px;
+}
